@@ -1,4 +1,4 @@
-# HRV_seizireDetection
+# HRV_seizureDetection
 # Real-Time AI-Based Seizure Prediction and Pre-Seizure ECG Analysis Using Wearable Data
 
 ## Overview
