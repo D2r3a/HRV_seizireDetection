@@ -1,2 +1,2 @@
 # HRV_seizireDetection
-in this repository i shared the preprocessing and machine learning for seizure detection notebook
+In this repository I shared the preprocessing and machine learning for seizure detection notebooks
